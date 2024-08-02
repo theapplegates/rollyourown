@@ -1,5 +1,4 @@
 {
-	"siteId": "1c81d213-8485-477f-8201-a67de7005794",
 	"geolocation": {
 		"data": {
 			"city": "Cincinnati",
@@ -16,5 +15,6 @@
 			"longitude": -84.526
 		},
 		"timestamp": 1722556450387
-	}
+	},
+	"siteId": "1c81d213-8485-477f-8201-a67de7005794"
 }
