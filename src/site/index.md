@@ -8,6 +8,7 @@ Take a look at [the code on GitHub]({{ pkg.repository.url }}), or read on, for m
 {% set somePhotos = [
   {url: "lighthouse-5.jpg", credit: "ezgi yıldırım", creditURL: "https://unsplash.com/photos/Ej1mWW2cd6Q"},
   {url: "maeva-vigier-wet-happy-dog.jpg", credit: "Maëva Vigier", creditURL: "https://unsplash.com/photos/a-golden-retriever-dog-holding-a-leash-in-its-mouth-pf3zk7j7oiY?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash"}
+  {url: "PIA26150~orig.jpg", credit: "NASA/JPL-Caltech", creditURL: "https://photojournal.jpl.nasa.gov/catalog/PIA26150"}
 ] %}
 <section class="post-teaser">
 {%- for photo in somePhotos %}
