@@ -1,7 +1,15 @@
 // Breakpoints
-$bp-narrow: "(min-width: 400px)";
-$bp-mid: "(min-width: 740px)";
-$bp-wide: "(min-width: 1200px)";
+$bp-tiny: "(min-width: 150px)";
+$bp-xs: "(min-width: 320px)";
+$bp-sm: "(min-width: 640px)";
+$bp-md: "(min-width: 768px)";
+$bp-lg: "(min-width: 1024px)";
+$bp-xl: "(min-width: 1366px)";
+$bp-2xl: "(min-width: 1600px)";
+$bp-3xl: "(min-width: 1920px)";
+$bp-4xl: "(min-width: 2148px)";
+$bp-5xl: "(min-width: 3200px)";
+$bp-6xl: "(min-width: 3840px)";
 
 // Colours
 $page-color: #fff;
